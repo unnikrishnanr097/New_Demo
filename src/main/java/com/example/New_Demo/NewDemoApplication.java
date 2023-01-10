@@ -9,7 +9,7 @@ public class NewDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NewDemoApplication.class, args);
-		new SpringApplicationBuilder(NewDemoApplication.class).run().close();
+
 	}
 
 }
